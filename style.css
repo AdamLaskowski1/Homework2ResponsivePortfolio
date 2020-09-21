@@ -34,7 +34,9 @@ h3 {
 }
 
 #placeholder-picture {
-    margin-top: 15px;
+    padding: 10px;
+    margin: 20px;
+    float: left;
 }
 
 .form-control {
