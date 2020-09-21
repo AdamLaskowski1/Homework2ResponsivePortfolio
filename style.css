@@ -9,6 +9,12 @@ h2 {
     font-family: 'IBM Plex Serif', serif;
 }
 
+h3 {
+    padding-top: 15px;
+    color: rgb(5, 5, 49);
+    font-family: 'IBM Plex Serif', serif;
+}
+
 .nav-link {
     padding-top: 15px;
     margin-right: 20px;
