@@ -1,3 +1,13 @@
+#headerName {
+    color: seashell;
+    padding: 10px;
+}
+
+#card-text {
+    color: rgb(5, 5, 49);
+    font-family: 'IBM Plex Serif', serif;
+}
+}
 p {
     color: rgb(5, 5, 49);
     font-family: 'IBM Plex Serif', serif;
