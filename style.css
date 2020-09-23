@@ -11,6 +11,7 @@
 p {
     color: rgb(5, 5, 49);
     font-family: 'IBM Plex Serif', serif;
+    line-height: 1.75em;
 }
 
 h2 {
@@ -33,12 +34,30 @@ h3 {
     font-size: 20px;
 }
 
-#placeholder-picture {
+.form-control {
+    size: "50";
+}
+
+#aboutMe-picture {
+    width: 200px;
+    height: 250px;
     padding: 10px;
     margin: 20px;
     float: left;
 }
 
-.form-control {
-    size: "50";
+#aboutMe-text {
+    font-size: 20px;
+    padding: 10px;
+    margin: 20px;
+}
+
+#SocialMedia {
+    padding: 10px;
+    margin: 20px;
+    font-size: large;
+}
+
+.portfolioText {
+    padding-bottom: 20px;
 }

@@ -1,88 +1,78 @@
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
-Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
+This is my Responsive Portfolio Homework assignment
 
+* Within this portfolio there are 3 pages
 
-## Directions
+    * Home/About Me
+    * Portfolio
+    * Contact
 
-First, you will use the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
+# Home/About Me page
 
-* Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
+This page includes 3 main AboutMe sections
 
-* Using Bootstrap, develop your portfolio site with the following items:
+* About Me description
 
-   * A navbar
+    * This is a description about my background and some of my experience
 
-   * A responsive layout
+* About Me Image
 
-   * Responsive images
+    * Picture of myself
 
-* The Bootstrap portfolio should minimize the use of media queries.
+* Links to social media
 
-* Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout.
+    * Link to LinkedIn profile
+    * Link to Facebook profile
 
-### Hints
+# Portfolio
 
-* Use Bootstrap's grid system (containers, rows, and columns).
+This section contains projects from my portfolio
 
-* On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
+* Images of Portfolio Projects
 
-* Use an HTML validation service to ensure that each page has valid HTML.
+    * Snapshot images of each project
 
-### Minimum Requirements
+* Description
 
-* Functional, deployed application
+    * Brief desccriptions of each project
 
-* GitHub repository with README describing the project
+# Contact
 
-* Navbar must be consistent on each page.
+This page contains 3 input boxes in which to get in contact with me
 
-* Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+* Name
 
-* All links must work.
+    * Text box for users full name
 
-* Must use semantic html.
+* Email Address
 
-* Each page must have valid and correct HTML. (use a validation service)
+    * Text box for users email address
 
-* Must contain your personalized information. (bio, name, images, links to social media, etc.)
+* Message
 
-* Must properly utilize Bootstrap components and grid system.
+    * Text box for a message 
 
+Contents of Homework assignment CSS and Bootstrap Homework: Responsive Portfolio
 
-### Bonus
-
-* Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
-
-
-## Commit Early and Often
-
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
-
-* Your commit history is a signal to employers that you are actively working on projects and learning new skills.
-
-* Your commit history allows you to revert your codebase in the event that you need to return to a previous state.
-
-Follow these guidelines for committing:
-
-* Make single-purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits.
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history.
-
-* Don't commit half-done work, for the sake of your collaborators (and your future self!).
-
-* Test your application before you commit to ensure functionality at every step in the development process.
-
-We would like you to have well over 200 commits by graduation, so commit early and often!
-
+* `index.html`
+* `portfolio.html`
+* `contact.html`
+* `style.css`
+* `reset.css`
+* images folder
 
 ## Submission on BCS
 
-You are required to submit the following:
+Submission
 
 * The URLs of the deployed applications
 
+    * https://adamlaskowski1.github.io/Homework2ResponsivePortfolio/
+
 * The URLs of the GitHub repositories
+
+    * https://github.com/AdamLaskowski1/Homework2ResponsivePortfolio
 
 - - -
 
