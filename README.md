@@ -74,6 +74,8 @@ Submission
 
     * https://github.com/AdamLaskowski1/Homework2ResponsivePortfolio
 
+<img id="aboutMe-picture" src="Images/aboutMeImage.JPG" alt="aboutMePic" class="img-thumbnail">
+
 - - -
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
